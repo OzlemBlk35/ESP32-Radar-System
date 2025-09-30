@@ -37,7 +37,7 @@ The measured data is then sent via the serial port to **Processing IDE**, where 
 - Processing draws the objects on the radar screen based on the received data.  
 
 ## 📸 Screenshots
- <img width="1190" height="675" alt="Ekran Görüntüsü (446)" src="https://github.com/user-attachments/assets/77fa5537-acc4-4be2-bffe-dd7dfb3e1d3f" />
+ <img width="530" height="600" alt="Ekran Görüntüsü (446)" src="https://github.com/user-attachments/assets/77fa5537-acc4-4be2-bffe-dd7dfb3e1d3f" />
  <img width="430" height="523" alt="image" src="https://github.com/user-attachments/assets/3f6378af-5d6c-40ba-9a4d-77d0a2a438fa" />
 
 
