@@ -1,5 +1,4 @@
 #include <ESP32Servo.h>
-
 // Defines Trig and Echo pins of the Ultrasonic Sensor
 const int trigPin = 14;
 const int echoPin = 12;
